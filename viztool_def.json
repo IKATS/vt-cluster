@@ -1,0 +1,10 @@
+{
+    "name": "Clusters",
+    "types": ["kmeans_mds"],
+    "classRef": ClustersViz,
+    "keyMap": {
+        "hover": "Show data tooltip",
+        "click": "display curve of corresponding time series"
+    },
+    "desc": "Displays a scatterplot with clusters identified by a centroid and a specific color"
+}
